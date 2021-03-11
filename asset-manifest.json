@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploy-weatherapp/static/css/main.b7a65115.chunk.css",
+    "main.js": "/deploy-weatherapp/static/js/main.4c9ceb60.chunk.js",
+    "main.js.map": "/deploy-weatherapp/static/js/main.4c9ceb60.chunk.js.map",
+    "runtime-main.js": "/deploy-weatherapp/static/js/runtime-main.41008ad0.js",
+    "runtime-main.js.map": "/deploy-weatherapp/static/js/runtime-main.41008ad0.js.map",
+    "static/js/2.d78cb94a.chunk.js": "/deploy-weatherapp/static/js/2.d78cb94a.chunk.js",
+    "static/js/2.d78cb94a.chunk.js.map": "/deploy-weatherapp/static/js/2.d78cb94a.chunk.js.map",
+    "static/js/3.bb5fe40c.chunk.js": "/deploy-weatherapp/static/js/3.bb5fe40c.chunk.js",
+    "static/js/3.bb5fe40c.chunk.js.map": "/deploy-weatherapp/static/js/3.bb5fe40c.chunk.js.map",
+    "index.html": "/deploy-weatherapp/index.html",
+    "static/css/main.b7a65115.chunk.css.map": "/deploy-weatherapp/static/css/main.b7a65115.chunk.css.map",
+    "static/js/2.d78cb94a.chunk.js.LICENSE.txt": "/deploy-weatherapp/static/js/2.d78cb94a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/deploy-weatherapp/static/media/noicewarm.85a46739.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41008ad0.js",
+    "static/js/2.d78cb94a.chunk.js",
+    "static/css/main.b7a65115.chunk.css",
+    "static/js/main.4c9ceb60.chunk.js"
+  ]
+}
